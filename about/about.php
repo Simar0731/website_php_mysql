@@ -48,7 +48,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; [Year] [Your Company Name]. All rights reserved.</p>
+        <p>&copy; 2024 simar infotech. All rights reserved.</p>
     </footer>
 </body>
 </html>
